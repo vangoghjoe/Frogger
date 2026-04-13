@@ -7,7 +7,8 @@
         <client_callable>false</client_callable>
         <description>Update desc&#13;
 after made v1&#13;
-now on b1</description>
+now on b1
+now edit from github</description>
         <mobile_callable>false</mobile_callable>
         <name>Frog</name>
         <sandbox_callable>false</sandbox_callable>
